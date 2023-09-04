@@ -18,3 +18,5 @@ Value has a Datatype, not the variable in which it is stored.
 2 - Object types
 
 ### typeof null is object
+
+## Strings and Template Literals
